@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Token Monitor</title>
+    <link>https://srgplus.github.io/token-monitor-macos/appcast.xml</link>
+    <description>Updates for Token Monitor by SRG+.</description>
+    <language>en</language>
+    <item>
+      <title>Token Monitor 1.4</title>
+      <pubDate>Wed, 14 Oct 2026 15:23:22 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Token Monitor 1.4</h3>
+<ul>
+  <li>Token Monitor now updates itself. It checks once a day, and Settings has a Check for Updates row.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/srgplus/token-monitor-macos/releases/download/v1.4/TokenMonitor.dmg" type="application/octet-stream" sparkle:edSignature="qxKGQfOrC2yCAx2sfQIDBTLUDTFi8ZLXbzjSur1+sxI8JtisPx82C/GC2tmVizKMB/GNppcXW5ZuTCPkDharBg==" length="2554248" />
+    </item>
+  </channel>
+</rss>
